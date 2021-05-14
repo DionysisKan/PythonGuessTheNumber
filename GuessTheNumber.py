@@ -7,13 +7,13 @@ window.geometry("820x1000")
 window.title("Guess The Number")
 
 
-logo1 = PhotoImage(file="uparrow.png")
+logo1 = PhotoImage(file="UpArrow.png")
 logo1= logo1.subsample(7)
 
-logo2 = PhotoImage(file="downarrow.png")
+logo2 = PhotoImage(file="DownArrow.png")
 logo2 = logo2.subsample(7)
 
-logo3 = PhotoImage(file="bravo.png")
+logo3 = PhotoImage(file="Bravo.png")
 logo3 = logo3.subsample(7)
 
 turns=0
